@@ -1,7 +1,8 @@
 <h3 align="center">✨ Keep Coding, Keep Exploring ✨</h3>
+<h1 align="center">Hi 👋, I'm Oybek</h1>
+<p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
 </p>
-<h1 align="center">Hi 👋, I'm Oybek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on **Najot ta'lim**
